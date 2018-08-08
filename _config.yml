@@ -3,11 +3,4 @@ url: https://naszam.io
 description: Nazzareno Massari's Blog
 github_username: naszam
 twitter_username: NazzMass
-#markdown: kramdown
-markdown: redcarpet
-redcarpet:
-  extensions: [with_toc_data, footnotes]
-permalink: /:categories/:year-:month-:day/:title
-highlighter: rouge
-category_dir: "."
-category_title_prefix: ""
+markdown: kramdown
