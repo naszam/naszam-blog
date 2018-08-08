@@ -19,3 +19,4 @@ github_username:  naszam
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-minimal
