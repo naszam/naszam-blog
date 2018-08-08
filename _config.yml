@@ -16,7 +16,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: NazzMass
 github_username:  naszam
-theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
